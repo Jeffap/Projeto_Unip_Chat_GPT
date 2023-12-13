@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+textarea {
+  width: 70%;
+  resize: none;
+  text-align: left;
+  background-color: #999999;
+
+  color: white;
+  font-size: 2rem;
+}
+
+.App {
+  height: 100vh;
+  background-color: #333333;
+  container: rouded mt-3;
+}
+
+.answer-box {
+  height: 50%;
+  margin: 3% 15%;
+  align-self: start;
+
+}
+
+.text-box {
+  height: 20%;
+  margin: 0% 15%;
+  
+}
+
+.answer-button {
+  height: 50%;
+  margin: 3% 15%;
+  align-self: start;
+  
+}
